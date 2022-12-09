@@ -1,4 +1,5 @@
 # HTML-Learning-Resources
+
 This Resources will help you to learn the html for free.
 
 Video Resource1(English) >> https://youtu.be/kUMe1FH4CHE 
@@ -11,6 +12,8 @@ Refer through this website For Documentation >> https://developer.mozilla.org/en
 
 Practice and work on html projects on this site >>  https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
+Here is another website for checking mistakes in your html code >> https://validator.w3.org/
+
 Happy Learning
 
-keep Learning keep growing 
+keep Learning, keep growing 
